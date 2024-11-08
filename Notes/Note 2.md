@@ -17,3 +17,8 @@ View, most basic (container like div)
 SafeAreaView
 
 ## 2.3 Text
+
+## 2.4 Image
+
+source={{require('./assets/icon.png')}};
+source={{uri: "https://picsum.photos/200/300"}};
